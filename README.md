@@ -1,2 +1,2 @@
 # Adaptive-threshold
-Adaptive Thresholding Using the Integral Image
+This is an implement of adaptive thresholding technique in 2d and 3d.
